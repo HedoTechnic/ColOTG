@@ -5,7 +5,6 @@ Database tables:
         Member: RoomID, UserID, Role
         
 Pages:
-        Sign in/up: email/password for sign in, name and email for sign up
-        Sign up: name and email from previous, password, confirm password, DoB, upload photo
-        Front page: Photo, "news", Menu (Profile, Friends, Rooms)
-        Profile: Photo
+        Frontpage:
+                Sign in/up: email/password for sign in, name and email for sign up
+                Home: Photo, "news", Menu (Profile, Friends, Rooms)
